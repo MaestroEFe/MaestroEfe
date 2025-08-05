@@ -14,7 +14,6 @@ I'm a **Senior Software Developer** and **IT Project Manager** with 5+ years of 
 - 👯 Looking to collaborate on: **Open source React/Next.js projects** and **DevOps automation tools**
 - 💬 Ask me about: **React, Next.js, TypeScript, AI-Augmented Development, Project Management**
 - 📫 How to reach me: **victor.akeks@gmail.com**
-- 📚 LinkedIn: **https://www.linkedin.com/in/victor-akeke/**
 - ⚡ Fun fact: Successfully transitioned from **digital marketing** to **Technical leadership** in 3 years!
 
 ---
@@ -113,9 +112,11 @@ I'm a **Senior Software Developer** and **IT Project Manager** with 5+ years of 
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-akeke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-akeke-60226315a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.akeks@gmail.com)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victor_akeke) -->
+[![GitHub](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaestroEfe)
+[![Old Github Account](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maestromode)
 
 ---
 
