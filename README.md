@@ -14,7 +14,8 @@ I'm a **Senior Software Developer** and **IT Project Manager** with 5+ years of 
 - 👯 Looking to collaborate on: **Open source React/Next.js projects** and **DevOps automation tools**
 - 💬 Ask me about: **React, Next.js, TypeScript, AI-Augmented Development, Project Management**
 - 📫 How to reach me: **victor.akeks@gmail.com**
-- ⚡ Fun fact: Successfully transitioned from **digital marketing** to **senior technical leadership** in 3 years!
+- 📚 LinkedIn: **https://www.linkedin.com/in/victor-akeke/**
+- ⚡ Fun fact: Successfully transitioned from **digital marketing** to **Technical leadership** in 3 years!
 
 ---
 
@@ -56,11 +57,11 @@ I'm a **Senior Software Developer** and **IT Project Manager** with 5+ years of 
 
 ### 💼 Professional Experience
 
-**🏢 Senior Software Developer & Team Lead** at **Ibat Travels and Tours** *(2019 - Present)*
+**🏢 Software Developer & Team Lead** at **Ibat Travels and Tours** *(2019 - Present)*
 - Leading cross-functional teams of 5+ developers with AI-enhanced project workflows
-- Built comprehensive CRM system serving 200+ users using modern development practices
-- Spearheaded frontend migration to Next.js (60% performance improvement)
-- Pioneered AI-assisted development workflows reducing development time by 40% and improving code quality
+- Built comprehensive CRM system serving 200+ users using modern development practices Django
+<!-- - Spearheaded frontend migration to Next.js (60% performance improvement) -->
+- Employed AI-assisted development workflows reducing development time by 40% and improving code quality
 - Implemented intelligent code generation and optimization strategies using GitHub Copilot and ChatGPT
 
 **🚀 Founder & Product Lead** at **G-line Logistics** *(2021 - Present)*
@@ -82,39 +83,39 @@ I'm a **Senior Software Developer** and **IT Project Manager** with 5+ years of 
 
 ### 🏆 Key Projects
 
-#### 🔧 AI-Enhanced CRM System
-- **Tech Stack:** React.js, Django, PostgreSQL + AI-driven optimization
+#### 🔧 AI-Enhanced CRM System (in progress)
+- **Tech Stack:** React, Next.js, TypeScript PostgreSQL + AI-driven optimization
 - **Features:** Custom authentication, role-based access, intelligent reporting with predictive analytics
 - **AI Integration:** Automated code generation, smart data insights, and performance optimization
 - **Impact:** Serves 200+ daily users with 99.9% uptime and 40% faster feature development
 
-#### 🌐 Intelligent CMS Platform
+#### 🌐 Intelligent CMS Platform (in progress)
 - **Tech Stack:** Next.js, TypeScript, Django API + AI-powered content optimization
 - **Features:** Blog management, service catalog, booking integration with smart recommendations
 - **AI Enhancement:** Automated content optimization, intelligent user behavior analysis
 - **Impact:** Scalable content management with enhanced user experience through AI insights
 
-#### 💚 Smart Nonprofit Platform
+<!-- #### 💚 Smart Nonprofit Platform
 - **Tech Stack:** Next.js, TypeScript, React + AI-driven engagement tools
 - **Features:** Donation processing, volunteer management with intelligent matching algorithms
 - **AI Features:** Predictive donor analytics, automated outreach optimization
-- **Impact:** 300% increase in online engagement through AI-enhanced user experience
+- **Impact:** 300% increase in online engagement through AI-enhanced user experience -->
 
 ---
 
 ### 📊 GitHub Stats
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaestroEfe&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaestroEfe&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-akeke)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.akeks@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victor_akeke) -->
 
 ---
 
@@ -133,7 +134,7 @@ I believe in leveraging artificial intelligence to **amplify human creativity** 
 ### 🎯 What I'm Looking For
 
 - **DevOps Engineering Opportunities** - Entry to mid-level positions with AI/ML integration focus
-- **Senior Full-Stack Developer Roles** - React/Next.js focus with AI-enhanced development workflows
+- **Backend or Full-Stack Developer Roles** - React/Next.js focus with AI-enhanced development workflows
 - **Technical Project Manager Positions** - Leading development teams with modern AI-augmented practices
 - **Open Source Collaborations** - React, DevOps tools, AI automation, and intelligent development tools
 
